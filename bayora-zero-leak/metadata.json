@@ -1,0 +1,8 @@
+{
+  "name": "Bayora Zero-Leak",
+  "description": "AI Safety Infrastructure prototype demonstrating zero-leak isolation, constant-time side-channel jitter, mTLS mediation, and SHA-256 Merkle cryptographic receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
